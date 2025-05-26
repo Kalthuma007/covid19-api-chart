@@ -2,8 +2,6 @@
 
 This project is a simple web app that fetches real-time global COVID-19 data from a public API and visualizes it using **Chart.js**. It displays the number of confirmed cases, deaths, and recoveries over the last 30 days in a line chart.
 
-## 🌐 Live Demo
-[Live Demo on GitHub Pages](#) *(Add your GitHub Pages link here after deployment)*
 
 ## 📊 Features
 - Real-time COVID-19 data (last 30 days)
